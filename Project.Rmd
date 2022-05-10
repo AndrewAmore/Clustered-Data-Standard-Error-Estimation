@@ -400,7 +400,7 @@ write.table(sim_df_large, 'sim_params_large.csv',
 ```{r create-simulation-output}
 # code to process simulation data
 require(data.table)
-setwd("/home/nimbus/Documents/STA_640/testing/simulation_data/sim_params_sigma")
+setwd("./simulation_data/sim_params_sigma")
 files = list.files(path=".")
 dat_list = lapply(files, function (x) data.table(readRDS(x)))
 dat = rbindlist(dat_list, fill = TRUE)

@@ -12,5 +12,5 @@ Clustered data is common in real-world settings and of particular interest to th
 
 ## Acknowledgements
 
-This project was completed as part of STA 640 (Causal Inference) at Duke, taught by Professor Fan Li. I partnered with a classmate, Rob Kravec, on this project.
+This project was completed as part of STA 640 (Causal Inference) at Duke, taught by Professor Fan Li. I partnered with a classmate, [Rob Kravec](https://github.com/robkravec), on this project.
 

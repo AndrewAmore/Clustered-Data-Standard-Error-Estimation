@@ -1,4 +1,5 @@
 # An Analysis of Standard Error Estimation for Clustered Data
+This repository contains code used to generate the paper [Project.pdf](Project.pdf). 
 
 ## Abstract
 
